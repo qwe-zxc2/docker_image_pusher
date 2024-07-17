@@ -1,2 +1,2 @@
-nginx
-linkease/istorepanel:latest
+
+lmk123/migpt-cli:latest
