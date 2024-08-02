@@ -1,2 +1,4 @@
-
-lmk123/migpt-cli:latest
+xiaoyaliu/alist
+haroldli/xiaoya-tvbox
+ddsderek/xiaoya-glue
+ddsderek/xiaoyakeeper
